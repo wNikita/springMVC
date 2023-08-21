@@ -1,4 +1,4 @@
-package com.example.demomvc;
+package com.example.demomvc.webInitializer;
 
 
 import org.springframework.web.WebApplicationInitializer;

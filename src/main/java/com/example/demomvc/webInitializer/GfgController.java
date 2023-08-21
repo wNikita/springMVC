@@ -1,4 +1,4 @@
-package com.example.demomvc;
+package com.example.demomvc.webInitializer;
 
 
 import org.springframework.stereotype.Controller;
@@ -13,7 +13,7 @@ public class GfgController {
 
     public String helloGfg()
     {
-        return "Welcome to GeeksForGeeks!";
+        return "Welcome to Example of web initalizer!";
     }
 }
 

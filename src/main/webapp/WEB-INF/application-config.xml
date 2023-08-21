@@ -7,6 +7,6 @@
 		http://www.springframework.org/schema/context
 		https://www.springframework.org/schema/context/spring-context.xsd">
 
-    <context:component-scan base-package="com.example.demomvc"></context:component-scan>
+    <context:component-scan base-package="com.example.demomvc.webInitializer"></context:component-scan>
 
 </beans>
